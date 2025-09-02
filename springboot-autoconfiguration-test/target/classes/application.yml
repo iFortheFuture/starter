@@ -1,7 +1,0 @@
-aliyun:
-  oss:
-    endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tEEtiLDdC1VKRj9aXxo
-    accessKeySecret: ZnPmbvz7WkDulHbajAHFPiXgjriAQ6
-    bucketName: cwf-tlias
-
